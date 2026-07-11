@@ -1,0 +1,4 @@
+Control Volume du PC
+Vous permet de contrôler le volume du PC à la voix.
+Augmentez, diminuez ou coupez le son sur n’importe quel client A.V.A.T.A.R compatible.
+Il permet également d’ajuster le volume de manière rapide et précise grâce aux commandes vocales A.V.A.T.A.R.

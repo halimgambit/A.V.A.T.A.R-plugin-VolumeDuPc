@@ -1,0 +1,10 @@
+{
+   "speech": {
+      "noValue": "I didn't understand the volume value.",
+      "setVolume": "Volume set to $$ percent.",
+      "volumeUp": "Increasing the volume.",
+      "volumeDown": "Lowering the volume.",
+      "mute": "Sound muted.",
+      "unmute": "Sound restored to $$ percent."
+   }
+}

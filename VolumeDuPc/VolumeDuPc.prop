@@ -1,0 +1,1 @@
+{"modules":{"VolumeDuPc":{"version":"1.0","name":"volume-pc","rules":{"setVolume":["(set|put) * (volume|sound)"],"unmute":["reset * (volume|sound)"],"mute":["mute * (volume|sound)"],"volumeUp":["(raise|mount|up|increase) * (sound|volume|audio)"],"volumeDown":["(reduce|down|lower|decrease) * (sound|audio|volume)"]},"active":true}}}
