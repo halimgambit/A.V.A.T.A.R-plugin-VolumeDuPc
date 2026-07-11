@@ -8,6 +8,7 @@ Permet de controler le volume du pc a la voix
 Commandes :
 - montele volume, baoisse le son, coupele volume, remet le son
 - régle/mets le volume à 10%, 20%, 30%, 40%, 50%,.....100%
+- Multi plateforme: Windows, macOs , linux
 
 ## Multi-room
 
